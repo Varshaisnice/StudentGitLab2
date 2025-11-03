@@ -1,2 +1,1 @@
-# Student Git Lab Project
-## Version Control Lab
+# Student GitLab Project
